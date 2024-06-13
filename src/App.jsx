@@ -1,18 +1,19 @@
 
 import Nav from "./components/Nav.jsx";
-import "./App.css"
+import "./App.css";
+import "./components/Nav.css";
+import Footer from "./components/Footer.jsx";
+import "./components/Footer1.css"
 
-import "./components/Nav.css"
-import TextFooter from "./components/Footer.jsx";
 
 
 
 const App = () =>{
   return (
-    <>
+  <>
    <Nav></Nav>
-   <TextFooter></TextFooter>
-    </>
+   <Footer></Footer>
+  </>
   )
 
 }
