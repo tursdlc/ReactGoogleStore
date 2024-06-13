@@ -1,3 +1,17 @@
-.titulo{
-  color:blue;
+.Nav{
+    background-color: blue;
+}
+
+
+
+
+
+.Main{
+    background-color:red ;
+}
+.Body{
+    background-color: aqua;
+}
+.Footer{
+    background-color: green;
 }
