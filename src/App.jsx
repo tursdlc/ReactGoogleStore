@@ -1,12 +1,15 @@
-import Button from "./components/Button.jsx";
+
+import Nav from "./components/Nav.jsx";
 import "./App.css"
-import "./components/Button.css"
+
+import "./components/Nav.css"
+
+
 
 const App = () =>{
   return (
     <>
-   <h1 className="titulo">Hola</h1>
-   <Button ></Button>
+   <Nav></Nav>
     </>
   )
 
