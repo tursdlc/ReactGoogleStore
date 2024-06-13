@@ -14,6 +14,7 @@ function Footer(){
         <div className="text">
           <img className="spain" src="./public/images/icons/Spain.svg"/>  
           <ul className="list2">
+            <li>Spain</li>
             <li>Privacy</li>
             <li>Google Nest Commitment to Privacy</li>
             <li>Sales Terms</li>
