@@ -1,0 +1,21 @@
+.Addtocart {
+    width: 400px;
+    height: 400px;
+    background-color: whitesmoke;
+}
+
+.price {
+font-size: 35px;
+color: black;
+
+}
+
+button {
+    width: 270px;
+    height:40px;
+    background-color:blue ;
+    font-size: 14px;
+    color: cornsilk;
+   
+ 
+}

@@ -11,6 +11,8 @@ import "./components/Nav.css"
 import "./components/main-container.css"
 import "./components/Description.css"
 import "./components/Footer1.css"
+import Addtocart from "./components/Addtocart.jsx";
+import "./components/Addtocart.css";
 
 
 const App = () =>{
@@ -22,7 +24,8 @@ const App = () =>{
    <div className="Body">
     <Main></Main>
     <Description></Description>
-   
+
+   <Addtocart></Addtocart>
    </div>
    <div className="Footer">
    <Footer></Footer>
