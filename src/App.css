@@ -1,19 +1,4 @@
-.Nav{
-    background-color: blue;
-}
-
-
-
-
-
-.Main{
-    background-color:red ;
-}
 .Body{
-    background-color: aqua;
     display: flex;
     flex-direction: row;
-}
-.Footer{
-    background-color: green;
 }
