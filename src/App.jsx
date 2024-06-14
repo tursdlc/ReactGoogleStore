@@ -2,9 +2,10 @@
 import Nav from "./components/Nav.jsx";
 import "./App.css"
 import Main from "./components/main-container.jsx";
+import Footer from "./components/Footer.jsx";
 import "./components/Nav.css"
 import "./components/main-container.css"
-
+import "./components/Footer1.css"
 
 
 const App = () =>{
@@ -13,13 +14,12 @@ const App = () =>{
   <div className="Nav">
    <Nav></Nav>
    </div>
-   <div className="body">
+   <div className="Body">
    <Main></Main>
-   
    </div>
    <div className="Footer">
-
-   </div>
+   <Footer></Footer>
+  </div>
     </>
   )
 
