@@ -24,7 +24,6 @@ const App = () =>{
    <div className="Body">
     <Main></Main>
     <Description></Description>
-
    <Addtocart></Addtocart>
    </div>
    <div className="Footer">

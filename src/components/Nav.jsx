@@ -14,7 +14,8 @@ function Nav(){
         </div>
         
         <div className="NavIcon">
-            <img className="Img" src="./public/images/icons/Search.svg"/>  
+        
+            <img className="Img" src="./public/images/icons/Search.svg"/> 
             <img className="Img" src="./public/images/icons/Help.svg"/>  
             <img className="Img" src="./public/images/icons/Cart.svg"/>
             <img className="Img" src="./public/images/icons/Avatar.svg"/>
