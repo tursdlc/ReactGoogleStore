@@ -11,6 +11,8 @@
 }
 .Body{
     background-color: aqua;
+    display: flex;
+    flex-direction: row;
 }
 .Footer{
     background-color: green;

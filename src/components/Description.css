@@ -1,0 +1,29 @@
+.titleText{
+    font-size: 35px;
+    font-weight: bold;
+}
+.price{
+    font-size: 28px;
+    font-weight: bold;
+
+}
+.line{
+    width: 380px;
+    text-align: initial;
+}
+.imgFitbit{
+    width: 150px;
+    height: 150px;
+    border: 1px solid #353A49;
+    border-radius: 6px;
+}
+.descriptionBlock{
+    display: flex;
+    flex-direction: column;
+
+}
+.picturesFitbit{
+    display: flex;
+    flex-direction: row;
+
+}
