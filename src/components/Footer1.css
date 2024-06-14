@@ -1,0 +1,41 @@
+.footer {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    margin: 10px;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
+.img{
+    width: 20px;
+    height: 20px;
+    
+}
+
+.spain{
+    width: 25px;
+    height: 25px;
+    position: fixed;
+    left: 910px;
+    bottom: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center 
+}
+
+.icon{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
+
+.list2{
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    gap:10px;
+    color:#57626B;
+}
