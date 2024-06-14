@@ -1,10 +1,19 @@
-.Body{
-    display: flex;
-    flex-direction: row;
-}
+
+
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
 
 *{
     font-family: 'Inter',sans-serif;
     
+}
+
+.Aside{
+    
+    display: flex;
+    flex-direction: column;
+    width: 60%;
+}
+.Body{
+    display: flex;
+
 }
