@@ -6,6 +6,11 @@ import Description from "./components/Description.jsx";
 import "./components/Nav.css"
 import "./components/main-container.css"
 import "./components/Description.css"
+import Footer from "./components/Footer.jsx";
+import "./components/Nav.css"
+import "./components/main-container.css"
+import "./components/Description.css"
+import "./components/Footer1.css"
 
 
 const App = () =>{
@@ -20,8 +25,8 @@ const App = () =>{
    
    </div>
    <div className="Footer">
-
-   </div>
+   <Footer></Footer>
+  </div>
     </>
   )
 
