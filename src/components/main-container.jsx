@@ -1,14 +1,12 @@
 function Main(){
     return (
         <>
-             <div className="Body">
-
-        <div className="NavIcon">
-            <img className="Main" src="./public/images/smartwatch/smartwatch_black.png"/>  
-            
-        </div>
-       
-        </div>
+             
+<div className="Clock-container">
+            <div className="Background">
+            <img className="Clock" src="./public/images/smartwatch/smartwatch_black.png"/>  
+            </div>
+            </div>
         </>
     )
 }
