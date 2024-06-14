@@ -1,17 +1,6 @@
-.Nav{
-    background-color: blue;
-}
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
 
-
-
-
-
-.Main{
-    background-color:red ;
-}
-.Body{
-    background-color: aqua;
-}
-.Footer{
-    background-color: green;
+*{
+    font-family: 'Inter',sans-serif;
+    
 }

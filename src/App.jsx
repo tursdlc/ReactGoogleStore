@@ -13,10 +13,9 @@ const App = () =>{
   <div className="Nav">
    <Nav></Nav>
    </div>
-   <div className="body">
+   <div className="Body">
    <Main></Main>
-   
-   </div>
+    </div>
    <div className="Footer">
 
    </div>

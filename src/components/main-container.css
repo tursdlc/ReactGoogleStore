@@ -1,7 +1,16 @@
-
-
-.Main{
-    width: 400px;
-    height: 400px;
-    border: 2px solid red;
+.Arrow{
+    display: flex;
+    padding: 10px;
+    
 }
+.Main{
+    width: 25%;
+    padding: 30px;
+    margin-left: 20%;
+    
+}
+
+a{
+    text-decoration: none;
+}
+
