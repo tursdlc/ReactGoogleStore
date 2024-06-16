@@ -3,7 +3,7 @@ function Nav(){
         <>
         <div className="NavMenu">
         <div className="NavText">
-        <img className="Img" src="./public/images/google-logo.png"/>  
+        <img className="ImgGoogle" src="./public/images/google-logo.png"/>  
         <ul className="List">
         <li>Phones</li>
         <li>Earbuds</li>

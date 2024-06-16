@@ -2,40 +2,32 @@
     display: flex;
     flex-direction: row;
     align-items: center;
-    justify-content: space-between;
-    margin: 10px;
-    position: fixed;
+    justify-content: space-around;
+    background-color: #F8F9FA;
     left: 0;
     bottom: 0;
     width: 100%;
 }
-.img{
-    width: 20px;
-    height: 20px;
-    
+.img-footer{
+    width: 18px;
+    height: 18px;
 }
 
-.spain{
-    width: 25px;
-    height: 25px;
-    position: fixed;
-    left: 910px;
-    bottom: 20px;
-    display: flex;
-    align-items: center;
-    justify-content: center 
-}
-
-.icon{
+.iconFooter{
     display: flex;
     flex-direction: row;
     gap: 10px;
+    margin-left: 10px;
 }
 
 .list2{
     list-style: none;
     display: flex;
     flex-direction: row;
-    gap:10px;
+    gap:24px;
     color:#57626B;
+    margin-right: 10px;
+}
+.Spain{
+    display: flex;
 }

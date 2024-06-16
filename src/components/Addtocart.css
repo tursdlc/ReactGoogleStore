@@ -1,21 +1,56 @@
 .Addtocart {
-    width: 400px;
-    height: 400px;
+    width: 500px;
+    height: 320px;
     background-color: whitesmoke;
+    border-radius: 6px;
+    margin-bottom: 20px;
 }
 
-.price {
-font-size: 35px;
-color: black;
+.cartPrice {
+    padding:20px;
+    font-size: 35px;
+    font-weight: bold;
+    color: #353A49;
 
 }
-
+.Button{
+    padding:20px;
+    display: flex;
+    justify-content: space-between;
+}
+select{
+    width: 80px;
+    height: 40px;
+    border-radius: 6px;
+    padding: 10px;
+    cursor: pointer;
+}
 button {
-    width: 270px;
+    width: 230px;
     height:40px;
-    background-color:blue ;
+    background-color:#1A73E8;
     font-size: 14px;
-    color: cornsilk;
-   
- 
+    color: white;
+    border-radius: 6px;
+    border-color: #1A73E8;
+}
+button:hover{
+    cursor: pointer;
+}
+.truck{
+    display: flex;
+    flex-direction: row;
+    padding:20px;
+    gap:20px;
+}
+.truckIcon{
+    width: 20px;
+    height:20px;
+}
+.truckText{
+    margin:0;
+    font-weight: bold;
+}
+.postcode{
+    color: #1A73E8;
 }
