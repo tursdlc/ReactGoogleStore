@@ -1,0 +1,33 @@
+.footer {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    background-color: #F8F9FA;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
+.img-footer{
+    width: 18px;
+    height: 18px;
+}
+
+.iconFooter{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    margin-left: 10px;
+}
+
+.list2{
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    gap:24px;
+    color:#57626B;
+    margin-right: 10px;
+}
+.Spain{
+    display: flex;
+}

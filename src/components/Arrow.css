@@ -1,0 +1,9 @@
+.Arrow-container{
+    display: flex;
+    width: 500px;    
+}
+
+.Arrow{
+    width: 20px;
+    padding: 10px;
+}
